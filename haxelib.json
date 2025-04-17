@@ -1,0 +1,12 @@
+{
+    "name": "hxVorbis",
+    "url" : "https://github.com/Slushi-Github/hxVorbis",
+    "license": "Apache",
+    "tags": ["native", "wiiu"],
+    "description": "Haxe @:native bindings for libvorbis, a C library for encoding, decoding and manipulating OGG Vorbis audio data.",
+    "version": "1.0.0",	
+    "releasenote": "",
+    "contributors": ["Slushi"],
+    "dependencies": {
+    }
+}
