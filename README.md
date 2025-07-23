@@ -9,9 +9,9 @@ To install this library, just install it through Haxelib:
 ```
 haxelib git hxu_vorbis https://github.com/Haxe-WiiU/HxU_Vorbis
 ```
-And then add the library to your HxCompileU JSON config (You need [HxCompileU](https://github.com/Slushi-Github/hxCompileU) version 1.3.5 or higher):
+And then add the library to your HxCompileU JSON config (You need [HxCompileU](https://github.com/Slushi-Github/hxCompileU) version 1.5.0 or higher):
 ```json
 {
-    "extraLibs": ["vorbis"],
+    "extraLibs": ["hxu_vorbis"],
 }
 ```
