@@ -2,5 +2,7 @@
     "libVersion": "1.0.0",
     "haxeLibs": [],
     "wiiuLibs": ["vorbis"],
-    "mainDefines": []
+    "mainDefines": [],
+    "cDefines": [],
+    "cppDefines": []
 }
